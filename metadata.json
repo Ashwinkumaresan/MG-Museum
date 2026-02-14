@@ -1,0 +1,7 @@
+{
+  "name": "Ink Gallery 3D",
+  "description": "An immersive, minimalist 3D virtual art gallery featuring pencil-sketch aesthetics and a shadow-like protagonist.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
